@@ -67,7 +67,7 @@ jobs:
         shell: powershell
 
     environment:
-      name: production
+      name: production_
       url: http://127.0.0.1:8000/docs
 
     concurrency:
