@@ -21,7 +21,7 @@ jobs:
 
     name: Validate ML Service
 
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
 
